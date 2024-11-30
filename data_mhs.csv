@@ -1,0 +1,12 @@
+;ID;Jenis Kelamin;Lulusan;Jurusan;Freelance;Income $
+0;1000;Laki-Laki;SMK;TKJ;Ya;115
+1;1001;Perempuan;SMA;MIPA;Tidak;50
+2;1002;Perempuan;SMK;TKJ;Ya;200
+3;1003;Laki-Laki;SMA;MIPA;Ya;150
+4;1004;Perempuan;SMK;MULTIMEDIA;Ya;250
+5;1005;Laki-Laki;SMK;TKJ;Tidak;50
+6;1006;Laki-Laki;SMA;MIPA;Ya;115
+7;1007;Perempuan;SMK;TKJ;Tidak;55
+8;1008;Laki-Laki;SMK;MULTIMEDIA;Ya;250
+9;1009;Laki-Laki;SMA;IPS;Tidak;50
+10;1010;Laki-Laki;SMK;TKJ;Ya;125
